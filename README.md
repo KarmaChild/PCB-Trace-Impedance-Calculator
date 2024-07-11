@@ -16,8 +16,8 @@ This project calculates trace impedance for PCBs using Python on a Raspberry Pi.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/KarmaChild/PCB-Trace-Impedance-Calculator.git
-   cd PCB-Trace-Impedance-Calculator
+   git clone https://github.com/KarmaChild/PCB-Trace-Impedance-Calculator-Rasberry-Pi.git
+   cd PCB-Trace-Impedance-Calculator-Rasberry-Pi
    ```
 2. Create and activate a virtual environment (recommended):
 
