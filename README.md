@@ -3,7 +3,7 @@
 ## Introduction
 
 This project calculates trace impedance for PCBs using Python on a Raspberry Pi.
-
+* You can directly download the executable file from [here](./PCB%20Trace%20Impedance%20Calculator%20Pi).
 ## Getting Started
 
 ### Prerequisites
