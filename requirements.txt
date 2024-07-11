@@ -1,3 +1,2 @@
-scikit-rf
 numpy
 tk
